@@ -17,7 +17,6 @@ setup(
         "sympy",
         "matplotlib",
         "ipywidgets",
-        "seaborn",
-        "math"
+        "seaborn"
     ],
 )
